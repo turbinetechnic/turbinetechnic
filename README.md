@@ -1,4 +1,4 @@
-## 🇹🇷 Hakkımızda  
+## TR Hakkımızda  
 Turbine Technic, rüzgar enerjisi projelerine yönelik **dijital mühendislik**, **haritalama** ve **ağır taşımacılık planlama** hizmetleri sunar.  
 Bu platform, **3B modelleme**, **rota analizleri**, **survey verileri** ve **proje dokümanlarının** merkezi olarak paylaşılmasını sağlar.
 
